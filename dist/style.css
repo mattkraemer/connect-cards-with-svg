@@ -9,14 +9,6 @@ article {
   padding: 2rem;
   position: absolute;
 }
-#firstArticle {
-  top: 15vw;
-  right: 5vw;
-}
-#secondArticle {
-  bottom: 5vw;
-  left: 5vw;
-}
 svg {
   height: 100vh;
   width: 100vw;
